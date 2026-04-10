@@ -1,4 +1,4 @@
-# clickbait-detection-project using Deep Learning
+# Clickbait-detection-project using Deep Learning
 Real-time clickbait detection using DistilBERT and XAI
 
 ## Overview
@@ -28,5 +28,5 @@ This project detects clickbait headlines using a hybrid model combining:
 3. Run all cells
 
 ## Author
-Gaurav H
+Gaurav H ,
 Rahul K
