@@ -45,5 +45,5 @@ This project detects clickbait headlines using a hybrid model combining:
 3. Run all cells
 
 ## Authors
-# Gaurav H <br>
-# Rahul K
+### Gaurav H <br>
+### Rahul K
