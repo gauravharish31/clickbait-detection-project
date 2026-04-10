@@ -22,6 +22,23 @@ This project detects clickbait headlines using a hybrid model combining:
 - Scikit-learn
 - LIME & SHAP
 
+## 📊 Results
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](images/roc_curve.png)
+
+### Training Curve
+![Training Curve](images/training_curve.png)
+
+### SHAP Explanation
+![SHAP](images/shap_plot.png)
+
+### LIME Explanation
+![LIME](images/lime_plot.png)
+
 ## How to Run
 1. Open notebook in Google Colab
 2. Install dependencies
