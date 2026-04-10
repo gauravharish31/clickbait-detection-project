@@ -1,6 +1,15 @@
 # Clickbait-detection-project using Deep Learning
 Real-time clickbait detection using DistilBERT and XAI
 
+## Run the Project
+
+You can open the notebook directly in Google Colab:
+
+[Open in Colab](https://colab.research.google.com/github/gauravharish31/clickbait-detection-project/blob/main/clickbait-detection-project.ipynb)
+
+## Open in Colab
+https://colab.research.google.com/github/gauravharish31/clickbait-detection-project/blob/main/clickbait-detection-project.ipynb
+
 ## Overview
 This project detects clickbait headlines using a hybrid model combining:
 - DistilBERT
