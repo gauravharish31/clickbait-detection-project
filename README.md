@@ -53,4 +53,3 @@ This project detects clickbait headlines using a hybrid model combining:
 
 ## Authors
 ### Gaurav H <br>
-### Rahul K
